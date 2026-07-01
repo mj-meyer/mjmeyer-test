@@ -1,4 +1,6 @@
 # mjmeyer.me
+Hello there! 👋
+
 My personal website
 
 ---
