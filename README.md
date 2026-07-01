@@ -3,7 +3,7 @@ Hello there! 👋
 
 My personal website
 
-*Force push test in progress...*
+*Force push test complete. Another un-pushed change ready.*
 
 ---
 
